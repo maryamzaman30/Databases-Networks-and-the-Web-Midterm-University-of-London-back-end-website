@@ -7,7 +7,7 @@
 #### Directory Structure #### (For better view, download this file & open)
 
 Databases-Networks-and-the-Web-Midterm-University-of-London-back-end-website/
-├── middleware/
+├── middleware/ 
 │   ├── auth.js
 │   └── setUser.js
 ├── node_modules (removed, can be added via installation)
