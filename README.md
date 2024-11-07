@@ -6,7 +6,7 @@
 
 #### Directory Structure #### (For better view, download this file & open)
 
-c/
+Databases-Networks-and-the-Web-Midterm-University-of-London-back-end-website/
 ├── middleware/
 │   ├── auth.js
 │   └── setUser.js
