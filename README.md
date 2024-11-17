@@ -4,8 +4,9 @@
 
 ## Associated with University of London
 
-#### Directory Structure #### (For better view, download this file & open)
+#### Directory Structure ####
 
+```
 Databases-Networks-and-the-Web-Midterm-University-of-London-back-end-website/
 ├── middleware/ 
 │   ├── auth.js
@@ -35,6 +36,7 @@ Databases-Networks-and-the-Web-Midterm-University-of-London-back-end-website/
 ├── package-lock.json
 ├── package.json
 └──  README.md (This file)
+```
 
 #### Versions used in this template ####
 
